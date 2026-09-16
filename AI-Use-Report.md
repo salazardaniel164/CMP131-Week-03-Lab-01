@@ -2,10 +2,10 @@
 
 ## Student Information
 
-- Student name:
-- Week:
-- Lab:
-- Date:
+- Student name:Daniel E Salazar Gomez
+- Week: 3
+- Lab: 2
+- Date: )9/15/2026
 
 ## AI Use
 
