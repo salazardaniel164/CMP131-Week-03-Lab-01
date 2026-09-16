@@ -38,16 +38,16 @@ Response: Changed how my print function was done by adding quotations
 
 Explain how you tested the code and confirmed that the AI assistance was accurate.
 
-Response:
+Response: I used it to derive good ifnormation which then confirmed by googling it again. I also changed my code a bit like adding quotes where I was missing quotes or actually figuring out the print function. 
 
 ## What I Learned
 
 Describe one concept or programming skill you understand better after completing the lab.
 
-Response:
+Response: I learned how to actually type the code especially in VScode using a copiler. I also learned how to properly use the word print. 
 
 ## Summary
 
 Provide any additional information about your use of AI for this lab.
 
-Response:
+Response:N/A
