@@ -4,7 +4,7 @@
 
 - Student name:Daniel E Salazar Gomez
 - Week: 3
-- Lab: 2
+- Lab: 1
 - Date: )9/15/2026
 
 ## AI Use
